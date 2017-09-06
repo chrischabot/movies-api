@@ -1,0 +1,10 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "Movies API for Cinemas Example Skill",
+  "author": "Chris Chabot <chabotcc@amazon.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
